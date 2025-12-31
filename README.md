@@ -24,7 +24,7 @@ A Python async application that fetches real-time exchange rates for multiple cu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/currency-rate-monitor.git
+git clone https://github.com/jandaghi14/currency-rate-monitor.git
 cd currency-rate-monitor
 ```
 
